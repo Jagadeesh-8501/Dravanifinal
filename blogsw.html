@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Our Blogs - Dr. Avani Mannam</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <section class="blog-listing">
+    <div class="container">
+      <div class="section-title text-center">
+        <h2>Latest Blogs</h2>
+        <p>Explore articles by Dr. Avani Mannam on fertility and women’s health</p>
+      </div>
+      <div class="row" id="blogContainer">
+        <!-- Blog posts will be injected here -->
+      </div>
+    </div>
+  </section>
+
+  <script>
+    fetch('blogs.json')
+      .then(res => res.json())
+      .then(data => {
+        const blogContainer = document.getElementById('blogContainer');
+        data.blogs.forEach(blog => {
+          blogContainer.innerHTML += `
+            <div class="col-lg-4 col-md-6">
+              <div class="blog-card">
+                <img src="${blog.coverImage}" alt="${blog.title}" class="img-fluid" />
+                <div class="blog-content">
+                  <span class="blog-meta">${new Date(blog.date).toDateString()}</span>
+                  <h3><a href="blog-details.html?slug=${blog.slug}">${blog.title}</a></h3>
+                  <p>${blog.sections.find(s => s.type === "paragraph")?.text.slice(0, 100)}...</p>
+                  <a href="blog-details.html?slug=${blog.slug}" class="read-more">Read More</a>
+                </div>
+              </div>
+            </div>`;
+        });
+      });
+  </script>
+</body>
+</html>

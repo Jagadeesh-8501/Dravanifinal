@@ -1,0 +1,166 @@
+{
+  "services": [
+    {
+      "slug": "ivf",
+      "images": [
+        { "src": "assets/images/services/ivf-img-1.jpg", "alt": "IVF Consultation" },
+        { "src": "assets/images/services/ivf-img-2.jpg", "alt": "IVF Lab" }
+      ],
+      "title": "Comprehensive IVF Consultation & Care",
+      "text": [
+        "Our IVF services provide personalized reproductive care using cutting-edge technology and compassionate support.",
+        "We assess fertility health, provide treatment options, and guide you through every step of your journey toward parenthood."
+      ],
+      "points": [
+        {
+          "icon": "icon-tick",
+          "text": "Advanced IVF techniques tailored to your needs"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Dedicated team with years of experience in reproductive medicine"
+        }
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Get7rqXYrbQ",
+        "icon": "fa fa-play"
+      },
+      "more_text": "We offer holistic IVF treatment—from evaluation to embryo transfer—with full transparency, emotional support, and medical excellence.",
+      "tabs": {
+        "specializations": {
+          "title": "Specializations",
+          "content": {
+            "text": "We specialize in various IVF procedures including conventional IVF, ICSI, and embryo freezing.",
+            "points": [
+              "Customized stimulation protocols",
+              "Embryo freezing & preservation"
+            ]
+          }
+        },
+        "intelligence": {
+          "title": "Success Rates",
+          "content": {
+            "text": "Our success rates are among the highest, owing to experienced embryologists and strict quality control.",
+            "points": [
+              "High-quality lab environment",
+              "Expertise in handling challenging cases"
+            ]
+          }
+        },
+        "precautions": {
+          "title": "Precautions",
+          "content": {
+            "text": "We guide patients on lifestyle adjustments, medication compliance, and post-treatment care for best outcomes.",
+            "points": [
+              "Healthy lifestyle recommendations",
+              "Scheduled follow-ups and emotional support"
+            ]
+          }
+        },
+        "support": {
+          "title": "Patient Support",
+          "content": {
+            "text": "Our support team ensures you’re never alone in the journey. We provide 24x7 assistance and emotional counseling.",
+            "points": [
+              "Dedicated IVF coordinators",
+              "Counseling services available"
+            ]
+          }
+        }
+      },
+      "additional_title": "Fertility Care that’s Accessible",
+      "additional_text": "Our IVF services are structured to be affordable without compromising quality, with flexible payment options and transparent pricing.",
+      "additional_points": [
+        {
+          "icon": "icon-tick",
+          "text": "Flexible EMI plans available"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Detailed explanation of all costs before you start"
+        }
+      ]
+    },
+    {
+      "slug": "iui",
+      "images": [
+        { "src": "assets/images/services/iui-img-1.jpg", "alt": "IUI Procedure" },
+        { "src": "assets/images/services/iui-img-2.jpg", "alt": "Fertility Support" }
+      ],
+      "title": "Safe and Effective IUI Treatments",
+      "text": [
+        "IUI (Intrauterine Insemination) is a simple, cost-effective fertility treatment ideal for couples with unexplained infertility or mild male factors.",
+        "Our clinic uses advanced screening and preparation techniques to improve success rates."
+      ],
+      "points": [
+        {
+          "icon": "icon-tick",
+          "text": "Safe and non-invasive fertility solution"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Experienced team ensures optimal timing and monitoring"
+        }
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=exampleIUI",
+        "icon": "fa fa-play"
+      },
+      "more_text": "Our IUI service offers quick recovery, minimal discomfort, and high success rates with appropriate patient selection.",
+      "tabs": {
+        "specializations": {
+          "title": "When IUI is Recommended",
+          "content": {
+            "text": "IUI is suitable for cases such as low sperm count, cervical issues, or ovulation problems.",
+            "points": [
+              "Unexplained infertility",
+              "Mild endometriosis or male infertility"
+            ]
+          }
+        },
+        "intelligence": {
+          "title": "Success Rate Factors",
+          "content": {
+            "text": "Success depends on factors such as age, sperm quality, and ovarian response. We monitor closely to increase your chances.",
+            "points": [
+              "Optimal sperm washing techniques",
+              "Ovulation tracking and timed insemination"
+            ]
+          }
+        },
+        "precautions": {
+          "title": "Pre & Post Procedure Care",
+          "content": {
+            "text": "Mild medications, tracking ovulation, and rest post-procedure can improve IUI outcomes.",
+            "points": [
+              "Avoid stress and physical exertion post IUI",
+              "Medication compliance is key"
+            ]
+          }
+        },
+        "support": {
+          "title": "Counseling & Support",
+          "content": {
+            "text": "We offer pre-IUI counseling, emotional support, and close communication throughout the process.",
+            "points": [
+              "Personalized treatment plans",
+              "Emotional and psychological support"
+            ]
+          }
+        }
+      },
+      "additional_title": "Affordable Fertility Treatment",
+      "additional_text": "IUI is a low-cost fertility option that can be repeated over cycles to improve the chances of conception with minimal intervention.",
+      "additional_points": [
+        {
+          "icon": "icon-tick",
+          "text": "Lower cost alternative to IVF"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Short recovery time, no sedation needed"
+        }
+      ]
+    }
+  ]
+}

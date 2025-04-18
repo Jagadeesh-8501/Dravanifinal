@@ -1,0 +1,948 @@
+{
+  "services": [
+    {
+  "slug": "preconceptional-care",
+  "images": [
+    { "src": "assets/images/services/11.jpg", "alt": "Preconception Counseling" },
+    { "src": "assets/images/services/preconceptional-care-2.jpg", "alt": "Fertility Planning Consultation" }
+  ],
+  "title": "Personalized Preconceptional Care & Counseling",
+  "icon": "assets/images/icon/12.png",
+  "text": [
+    "Preconceptional care involves a proactive approach to reproductive health, ensuring both partners are in optimal condition before attempting to conceive. Our services include comprehensive health evaluations, fertility assessments, and personalized planning to enhance your chances of a healthy pregnancy.",
+    "Whether you’re starting your first journey to parenthood or preparing after previous challenges, our team provides holistic support—covering nutrition, lifestyle changes, and screenings to optimize reproductive outcomes."
+  ],
+  "points": [
+    {
+      "icon": "icon-tick",
+      "text": "Comprehensive health checkups for both partners"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Fertility awareness and ovulation tracking support"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=examplePreconceptionCare",
+    "icon": "fa fa-play"
+  },
+  "more_text": "Our goal with preconceptional care is to address any potential risks early on. By creating a tailored plan that includes medical, nutritional, and emotional support, we help you lay a strong foundation for a smooth and healthy pregnancy journey.",
+  "tabs": {
+    "specializations": {
+      "title": "What We Cover",
+      "content": {
+        "text": "Our preconception program includes medical history review, lab tests, fertility assessment, genetic counseling, and lifestyle planning to prepare you both physically and mentally for pregnancy.",
+        "points": [
+          "Menstrual and ovulation health",
+          "Hormonal and fertility profiling",
+          "Nutritional and supplement guidance"
+        ]
+      }
+    },
+    "intelligence": {
+      "title": "Benefits & Outcomes",
+      "content": {
+        "text": "Preconceptional care significantly improves pregnancy success rates and reduces the risk of complications. Our data-backed guidance ensures a healthier start for both mother and baby.",
+        "points": [
+          "Higher pregnancy success rates",
+          "Improved maternal and fetal health",
+          "Reduced risk of genetic conditions"
+        ]
+      }
+    },
+    "precautions": {
+      "title": "Pre-Pregnancy Lifestyle Tips",
+      "content": {
+        "text": "We provide lifestyle and health advice tailored to your individual goals. This includes avoiding harmful substances, managing weight, and balancing hormonal health.",
+        "points": [
+          "Maintain a healthy BMI and active lifestyle",
+          "Avoid alcohol, smoking, and unnecessary medications",
+          "Focus on stress management and sleep hygiene"
+        ]
+      }
+    },
+    "support": {
+      "title": "Ongoing Support & Guidance",
+      "content": {
+        "text": "Our dedicated care team is available to guide you with ongoing checkups, emotional counseling, and personalized advice to ease anxiety and increase your readiness for pregnancy.",
+        "points": [
+          "Access to expert fertility counselors",
+          "Customized wellness plans",
+          "Emotional and psychological guidance"
+        ]
+      }
+    }
+  },
+  "additional_title": "Plan Parenthood the Smart Way",
+  "additional_text": "We believe every parent deserves a strong and confident start. Our preconceptional care helps you take control of your fertility journey by optimizing health, reducing stress, and preparing your body and mind for a successful pregnancy.",
+  "additional_points": [
+    {
+      "icon": "icon-tick",
+      "text": "Holistic pre-pregnancy planning"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Improved reproductive and general wellness"
+    }
+  ]
+}
+,
+  {
+  "slug": "evaluation",
+  "images": [
+    { "src": "assets/images/services/3.jpg", "alt": "Evaluation Consultation" },
+    { "src": "assets/images/services/evaluation-img-2.jpg", "alt": "Fertility Evaluation" }
+  ],
+  "title": "Comprehensive Fertility Evaluation",
+        "icon": "assets/images/icon/3.svg",
+
+  "text": [
+    "A thorough fertility evaluation is the first step in your journey to parenthood. We conduct a series of tests and assessments for both partners to identify any underlying fertility issues. Our comprehensive evaluation includes hormonal assessments, ultrasound imaging, sperm analysis, and a review of your medical history. This helps us tailor a personalized treatment plan for you.",
+    "The goal of this evaluation is to understand your unique fertility situation so we can recommend the most effective course of action. Our team is dedicated to providing the best possible care and making your fertility journey as informed and smooth as possible."
+  ],
+  "points": [
+    {
+      "icon": "icon-tick",
+      "text": "Comprehensive tests and assessments"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Personalized treatment recommendations"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=exampleEvaluation",
+    "icon": "fa fa-play"
+  },
+  "more_text": "Fertility evaluation is a vital step in understanding the factors that may be affecting your ability to conceive. With our advanced diagnostic tools and compassionate care, we help you identify the best options for your treatment, ensuring the most effective path to achieving your dreams of parenthood.",
+  "tabs": {
+    "specializations": {
+      "title": "Evaluation Process",
+      "content": {
+        "text": "Our fertility evaluation includes a wide range of diagnostic tests. These include blood tests to evaluate hormone levels, ultrasound to check for structural issues, and sperm analysis for male fertility. Based on these results, our fertility specialists will create a customized treatment plan tailored to your unique needs.",
+        "points": [
+          "Hormonal and blood tests",
+          "Ultrasound for reproductive health",
+          "Comprehensive sperm analysis"
+        ]
+      }
+    },
+    "intelligence": {
+      "title": "Fertility Diagnosis & Success Rates",
+      "content": {
+        "text": "Our fertility specialists provide a detailed report on your diagnosis, explaining all aspects of your reproductive health. With state-of-the-art technology and expertise, we provide accurate results that help increase your chances of conception. Each evaluation is followed by personalized advice on next steps, whether that's starting treatments or exploring alternative options.",
+        "points": [
+          "Detailed fertility diagnosis",
+          "Increased chances of successful conception",
+          "State-of-the-art diagnostic tools"
+        ]
+      }
+    },
+    "precautions": {
+      "title": "Preparing for Your Evaluation",
+      "content": {
+        "text": "We guide you on the preparation needed for each test in your fertility evaluation. From scheduling blood tests to preparing for an ultrasound, our team ensures you are well-informed and comfortable throughout the process.",
+        "points": [
+          "Preparation for blood work",
+          "Information about ultrasound procedures",
+          "Follow-up steps after evaluation"
+        ]
+      }
+    },
+    "support": {
+      "title": "Support & Counseling",
+      "content": {
+        "text": "At every step of your fertility evaluation, we provide ongoing support and counseling. Our fertility specialists will be available to answer any questions you may have about the process, and our counseling services will ensure that you're emotionally supported throughout your journey.",
+        "points": [
+          "Continuous emotional support",
+          "Clear communication with specialists",
+          "Personalized counseling sessions"
+        ]
+      }
+    }
+  },
+  "additional_title": "Take the First Step Towards Parenthood",
+  "additional_text": "A fertility evaluation is the crucial first step in understanding your reproductive health and making informed decisions. It provides clarity and helps guide you to the right treatment plan, whether it’s IVF, IUI, or other assisted reproductive technologies.",
+  "additional_points": [
+    {
+      "icon": "icon-tick",
+      "text": "Understanding your fertility health"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Guided and personalized next steps"
+    }
+  ]
+},
+ {
+      "slug": "iui",
+      "images": [
+        { "src": "assets/images/services/2.jpg", "alt": "IUI Procedure" },
+        { "src": "assets/images/services/iui-img-2.jpg", "alt": "Fertility Support" }
+      ],
+      "title": "Safe and Effective IUI Treatments",
+            "icon": "assets/images/icon/2.svg",
+
+      "text": [
+        "IUI (Intrauterine Insemination) is a cost-effective and minimally invasive fertility treatment. It’s designed for couples who have been struggling with infertility due to factors such as ovulation issues, low sperm count, or cervical problems. The IUI procedure involves directly inserting sperm into the uterus during the woman’s ovulation cycle to increase the chances of conception.",
+        "Our clinic offers personalized IUI treatments based on a thorough evaluation of both partners’ fertility health. We ensure that all patients undergo proper screening and monitoring to optimize the chances of a successful pregnancy. With our expertise and compassionate care, IUI is a great option for those looking for a less invasive alternative to IVF."
+      ],
+      "points": [
+        {
+          "icon": "icon-tick",
+          "text": "Safe and non-invasive fertility solution"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Experienced team ensures optimal timing and monitoring"
+        }
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=exampleIUI",
+        "icon": "fa fa-play"
+      },
+      "more_text": "IUI is a highly effective treatment with low intervention, making it ideal for many couples. The procedure is quick, with minimal discomfort, and recovery time is short. After the procedure, we provide supportive care and guidance to maximize your chances of success. For many patients, multiple cycles of IUI may be recommended for optimal results.",
+      "tabs": {
+        "specializations": {
+          "title": "When IUI is Recommended",
+          "content": {
+            "text": "IUI is most effective for couples with unexplained infertility, mild male infertility, or ovulation problems. This treatment is also recommended for women who have cervical mucus problems or when the sperm quality is suboptimal.",
+            "points": [
+              "Unexplained infertility",
+              "Mild male infertility",
+              "Ovulation disorders",
+              "Cervical mucus issues"
+            ]
+          }
+        },
+        "intelligence": {
+          "title": "Success Rate Factors",
+          "content": {
+            "text": "The success of IUI depends on factors like age, sperm quality, and ovulation health. We closely monitor each cycle using advanced technology and ensure that timing and sperm selection are optimal. We strive to increase the chances of conception through meticulous care.",
+            "points": [
+              "Optimal sperm washing techniques",
+              "Timed insemination for better success rates",
+              "Accurate ovulation tracking"
+            ]
+          }
+        },
+        "precautions": {
+          "title": "Pre & Post Procedure Care",
+          "content": {
+            "text": "Before the IUI procedure, patients may need medication to regulate ovulation. Afterward, we recommend rest and proper hydration. Following instructions and attending follow-up visits are essential for maximizing the chances of success.",
+            "points": [
+              "Avoid strenuous activities post-IUI",
+              "Follow medication instructions carefully",
+              "Monitor emotional well-being during the treatment"
+            ]
+          }
+        },
+        "support": {
+          "title": "Counseling & Support",
+          "content": {
+            "text": "Throughout the IUI process, we provide counseling and emotional support. We understand the stress that fertility treatments can cause, and our team is here to offer guidance every step of the way. Our coordinators and counselors will assist you in making informed decisions and provide the emotional support you need.",
+            "points": [
+              "Personalized treatment plans",
+              "Emotional and psychological support",
+              "Ongoing communication with fertility specialists"
+            ]
+          }
+        }
+      },
+      "additional_title": "Affordable Fertility Treatment",
+      "additional_text": "IUI is one of the most affordable fertility treatments available. With relatively low costs compared to other methods like IVF, it allows for repeated cycles, which can be a cost-effective way to increase the chances of conception.",
+      "additional_points": [
+        {
+          "icon": "icon-tick",
+          "text": "Lower cost alternative to IVF"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Minimal intervention with quick recovery"
+        }
+      ]
+    },
+   {
+      "slug": "ivf",
+      "images": [
+        { "src": "assets/images/services/1.jpg", "alt": "IVF Consultation" },
+        { "src": "assets/images/services/ivf-img-2.jpg", "alt": "IVF Lab" }
+      ],
+      "title": "Comprehensive IVF Consultation & Care",
+      "icon": "assets/images/icon/1.svg",
+      "text": [
+        "Our IVF services provide personalized reproductive care using cutting-edge technology and compassionate support. Whether you're dealing with infertility due to male or female factors, our IVF specialists ensure the best possible care and tailored treatments to meet your needs.",
+        "We begin with a thorough consultation to understand your fertility health, followed by diagnostic testing, and a range of treatment options. Our team is here to guide you every step of the way—from initial consultation to successful embryo transfer, ensuring your journey toward parenthood is as smooth and supportive as possible."
+      ],
+      "points": [
+        {
+          "icon": "icon-tick",
+          "text": "Advanced IVF techniques tailored to your needs"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Dedicated team with years of experience in reproductive medicine"
+        }
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Get7rqXYrbQ",
+        "icon": "fa fa-play"
+      },
+      "more_text": "We offer holistic IVF treatment—from evaluation to embryo transfer—with full transparency, emotional support, and medical excellence. Our goal is to provide you with the best chances of a successful pregnancy by focusing on your physical, emotional, and psychological well-being throughout the IVF process.",
+      "tabs": {
+        "specializations": {
+          "title": "Specializations",
+          "content": {
+            "text": "We specialize in various IVF procedures, including conventional IVF, ICSI (Intracytoplasmic Sperm Injection), and embryo freezing. Our clinic utilizes advanced stimulation protocols and the latest laboratory technologies to maximize the chances of successful conception.",
+            "points": [
+              "Customized stimulation protocols",
+              "Embryo freezing & preservation",
+              "Advanced ICSI procedures"
+            ]
+          }
+        },
+        "intelligence": {
+          "title": "Success Rates",
+          "content": {
+            "text": "Our success rates are among the highest in the region, thanks to our experienced embryologists and strict laboratory protocols. Each treatment plan is tailored to the patient’s specific needs to ensure the best outcomes. We monitor every stage of the IVF cycle with precision, ensuring the highest chances of success.",
+            "points": [
+              "High-quality lab environment",
+              "Expertise in handling challenging cases",
+              "Advanced screening and monitoring technology"
+            ]
+          }
+        },
+        "precautions": {
+          "title": "Precautions",
+          "content": {
+            "text": "We guide our patients on necessary lifestyle adjustments, medication adherence, and post-treatment care to maximize the success of IVF treatment. These precautions are important to ensure that your body is prepared for embryo transfer and the best chance at pregnancy.",
+            "points": [
+              "Healthy lifestyle recommendations",
+              "Scheduled follow-ups and emotional support",
+              "Proper medication administration"
+            ]
+          }
+        },
+        "support": {
+          "title": "Patient Support",
+          "content": {
+            "text": "Our support team is here for you throughout your journey. From answering questions to providing emotional support, we ensure you're never alone in the IVF process. We offer 24/7 assistance, counseling services, and continuous monitoring to make sure your experience is as smooth as possible.",
+            "points": [
+              "Dedicated IVF coordinators",
+              "Counseling services available",
+              "Comprehensive emotional and mental health support"
+            ]
+          }
+        }
+      },
+      "additional_title": "Fertility Care that’s Accessible",
+      "additional_text": "Our IVF services are structured to be affordable without compromising quality. We offer flexible payment plans and transparent pricing to make your fertility journey accessible. From initial consultation to IVF procedures, our goal is to make sure you receive the best possible care within your budget.",
+      "additional_points": [
+        {
+          "icon": "icon-tick",
+          "text": "Flexible EMI plans available"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Detailed explanation of all costs before you start"
+        }
+      ]
+    },
+
+
+
+{
+  "slug": "icsi",
+  "images": [
+    { "src": "assets/images/services/6.jpg", "alt": "ICSI Procedure" },
+    { "src": "assets/images/services/icsi-img-2.jpg", "alt": "ICSI Lab" }
+  ],
+  "title": "Intracytoplasmic Sperm Injection (ICSI) for Fertility",
+        "icon": "assets/images/icon/6.svg",
+
+  "text": [
+    "ICSI is an advanced fertility treatment designed to help couples facing male infertility, such as low sperm count or poor sperm motility.",
+    "Using micro-injection technology, we place a single sperm directly into an egg, improving chances of fertilization and successful pregnancy."
+  ],
+  "points": [
+    {
+      "icon": "icon-tick",
+      "text": "Suitable for severe male infertility issues"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Advanced sperm selection and fertilization technique"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=exampleICSI",
+    "icon": "fa fa-play"
+  },
+  "more_text": "ICSI is a game-changing procedure for couples who need targeted fertility assistance. Our clinic ensures expert handling and personalized treatment throughout the process.",
+  "tabs": {
+    "specializations": {
+      "title": "When ICSI is Recommended",
+      "content": {
+        "text": "ICSI is typically recommended for couples dealing with male infertility, such as low sperm count, poor sperm mobility, or sperm morphology issues.",
+        "points": [
+          "Severe male infertility",
+          "Failed fertilization in conventional IVF cycles"
+        ]
+      }
+    },
+    "intelligence": {
+      "title": "Success Rate Factors",
+      "content": {
+        "text": "Success depends on factors such as sperm quality, egg health, and overall female fertility. We track every step closely to maximize success.",
+        "points": [
+          "Expert sperm handling and egg selection",
+          "Strict lab protocols for fertilization"
+        ]
+      }
+    },
+    "precautions": {
+      "title": "Pre & Post Procedure Care",
+      "content": {
+        "text": "For the best outcome, patients are advised to follow post-ICSI care instructions carefully, including rest and regular monitoring.",
+        "points": [
+          "Monitor egg quality and sperm health before the procedure",
+          "Rest and avoid physical stress after the procedure"
+        ]
+      }
+    },
+    "support": {
+      "title": "Patient Support",
+      "content": {
+        "text": "Our clinic offers continuous support through the ICSI journey, providing emotional counseling, personalized treatment plans, and follow-up care.",
+        "points": [
+          "24/7 access to IVF coordinators",
+          "Emotional and psychological support during the process"
+        ]
+      }
+    }
+  },
+  "additional_title": "ICSI: Targeted Fertility Treatment",
+  "additional_text": "ICSI offers a specialized approach to male infertility, giving couples with male-factor infertility a higher chance of conception.",
+  "additional_points": [
+    {
+      "icon": "icon-tick",
+      "text": "Higher success rates for male infertility"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Advanced sperm injection technology"
+    }
+  ]
+},
+{
+  "slug": "in-vitro-maturation",
+  "images": [
+    { "src": "assets/images/services/7.jpg", "alt": "In-Vitro Maturation" },
+    { "src": "assets/images/services/ivm-img-2.jpg", "alt": "IVM Laboratory" }
+  ],
+  "title": "In-Vitro Maturation (IVM) for Fertility Preservation",
+        "icon": "assets/images/icon/7.svg",
+
+  "text": [
+    "In-Vitro Maturation (IVM) is an innovative fertility treatment that enables egg maturation outside the body, offering an alternative to conventional IVF for certain patients.",
+    "This technique is ideal for women with polycystic ovary syndrome (PCOS) or those who want to avoid the risks of ovarian hyperstimulation syndrome (OHSS)."
+  ],
+  "points": [
+    {
+      "icon": "icon-tick",
+      "text": "Suitable for women with PCOS or at risk of OHSS"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Minimizes the need for hormone injections"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=exampleIVM",
+    "icon": "fa fa-play"
+  },
+  "more_text": "IVM is an emerging technique that allows eggs to mature in the laboratory, reducing the need for traditional hormone stimulation and improving fertility outcomes for women with specific needs.",
+  "tabs": {
+    "specializations": {
+      "title": "When IVM is Recommended",
+      "content": {
+        "text": "IVM is most commonly recommended for women who have PCOS or those who are at high risk for OHSS due to ovarian stimulation.",
+        "points": [
+          "Polycystic ovary syndrome (PCOS)",
+          "Women who wish to avoid excessive ovarian stimulation"
+        ]
+      }
+    },
+    "intelligence": {
+      "title": "Success Rate Factors",
+      "content": {
+        "text": "IVM has a slightly lower success rate compared to conventional IVF, but it offers an alternative for patients who may not respond well to traditional hormone treatments.",
+        "points": [
+          "Success depends on egg quality and patient health",
+          "Careful monitoring and expertise in egg maturation are essential"
+        ]
+      }
+    },
+    "precautions": {
+      "title": "Pre & Post Procedure Care",
+      "content": {
+        "text": "IVM requires precise timing for egg retrieval and maturation. Patients must follow strict instructions to ensure the best outcomes.",
+        "points": [
+          "Follow medical advice for hormone preparation before the procedure",
+          "Post-procedure rest and follow-up monitoring are essential"
+        ]
+      }
+    },
+    "support": {
+      "title": "Patient Support",
+      "content": {
+        "text": "We offer emotional and psychological support throughout the IVM process, ensuring that patients are informed, supported, and cared for every step of the way.",
+        "points": [
+          "Dedicated IVF coordinators",
+          "Counseling services to guide patients through their journey"
+        ]
+      }
+    }
+  },
+  "additional_title": "IVM: A Breakthrough in Fertility Treatment",
+  "additional_text": "IVM is a groundbreaking procedure that offers hope to women who may not be suitable candidates for traditional IVF. By reducing the use of hormones, it provides a safer, less invasive alternative.",
+  "additional_points": [
+    {
+      "icon": "icon-tick",
+      "text": "Reduces the need for ovarian stimulation"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Ideal for women at risk of OHSS"
+    }
+  ]
+},
+ {
+  "slug": "male-fertility",
+  "images": [
+    { "src": "assets/images/services/8.jpg", "alt": "Male Fertility Consultation" },
+    { "src": "assets/images/services/male-fertility-img-2.jpg", "alt": "Semen Analysis" }
+  ],
+  "title": "Male Fertility Services for Reproductive Health",
+        "icon": "assets/images/icon/8.svg",
+
+  "text": [
+    "Our Male Fertility services provide comprehensive testing and treatment options to improve male reproductive health and increase the chances of conception.",
+    "We offer advanced semen analysis, sperm retrieval methods, and personalized care for male infertility issues."
+  ],
+  "points": [
+    {
+      "icon": "icon-tick",
+      "text": "Advanced semen analysis to evaluate sperm health and motility"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Personalized treatment plans tailored to address specific fertility issues"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=exampleMaleFertility",
+    "icon": "fa fa-play"
+  },
+  "more_text": "Our Male Fertility services include non-invasive tests, semen analysis, and sperm retrieval procedures such as TESA and TESE to treat male infertility.",
+  "tabs": {
+    "specializations": {
+      "title": "Male Fertility Treatment Options",
+      "content": {
+        "text": "We specialize in diagnosing and treating male infertility through advanced medical techniques, lifestyle management, and sperm retrieval methods.",
+        "points": [
+          "Semen analysis and sperm count evaluation",
+          "Sperm retrieval procedures (TESA, TESE)"
+        ]
+      }
+    },
+    "intelligence": {
+      "title": "Success Rate Factors",
+      "content": {
+        "text": "Male fertility treatments have varying success rates depending on the cause of infertility and sperm quality. Close monitoring and expert care are essential to achieving optimal results.",
+        "points": [
+          "Semen quality, sperm count, and motility play a significant role",
+          "Lifestyle changes and proper medication can improve fertility outcomes"
+        ]
+      }
+    },
+    "precautions": {
+      "title": "Pre & Post Procedure Care",
+      "content": {
+        "text": "Male fertility treatments often require proper medical management, including hormone therapy and sperm preservation, along with post-procedure care to ensure the best results.",
+        "points": [
+          "Avoid smoking, excessive alcohol, and hot baths before testing",
+          "Post-treatment rest and follow-up consultations for optimal results"
+        ]
+      }
+    },
+    "support": {
+      "title": "Emotional & Psychological Support",
+      "content": {
+        "text": "We understand that dealing with fertility issues can be emotionally challenging for men. Our clinic provides counseling and psychological support to help you through the process.",
+        "points": [
+          "One-on-one counseling with fertility experts",
+          "Psychological support for both individuals and couples"
+        ]
+      }
+    }
+  },
+  "additional_title": "Holistic Male Fertility Care",
+  "additional_text": "Our male fertility treatments focus on a holistic approach, addressing physical, emotional, and psychological aspects of infertility to ensure the best possible outcomes.",
+  "additional_points": [
+    {
+      "icon": "icon-tick",
+      "text": "Semen preservation for future use"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Tailored treatment plans based on individual needs"
+    }
+  ]
+},
+{
+  "slug": "gynecology",
+  "images": [
+    { "src": "assets/images/services/4.jpg", "alt": "Gynecology Consultation" },
+    { "src": "assets/images/services/gynecology-img-2.jpg", "alt": "Gynecology Treatment" }
+  ],
+  "title": "Comprehensive Gynecology Services",
+        "icon": "assets/images/icon/4.svg",
+
+  "text": [
+    "Our gynecology services cover a wide range of women’s health needs, from routine checkups to specialized treatments. We focus on early detection and prevention of gynecological issues to ensure the health and well-being of every patient.",
+    "From menstrual disorders to hormonal imbalances, our team of expert gynecologists provides compassionate care and the latest treatment options. We strive to make your visits comfortable and informative."
+  ],
+  "points": [
+    {
+      "icon": "icon-tick",
+      "text": "Expert care for all gynecological needs"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Early detection of potential health issues"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=exampleGynecology",
+    "icon": "fa fa-play"
+  },
+  "more_text": "Our gynecology services include routine examinations, screenings, and treatments for various gynecological conditions. We use the latest technology and provide a compassionate environment for all women’s health concerns.",
+  "tabs": {
+    "specializations": {
+      "title": "Specialized Services",
+      "content": {
+        "text": "We specialize in conditions such as PCOS, endometriosis, menstrual irregularities, and menopausal management. Our specialists also offer preconception counseling and post-partum care.",
+        "points": [
+          "PCOS and menstrual issues",
+          "Menopause management",
+          "Preconception counseling"
+        ]
+      }
+    },
+    "intelligence": {
+      "title": "Advanced Treatment Options",
+      "content": {
+        "text": "We offer the latest treatment options for gynecological conditions, including medical management, minimally invasive surgery, and hormone therapy. Our doctors work closely with you to develop the best treatment plan for your unique needs.",
+        "points": [
+          "Minimally invasive surgery options",
+          "Personalized treatment plans"
+        ]
+      }
+    },
+    "precautions": {
+      "title": "Pre & Post Treatment Care",
+      "content": {
+        "text": "Our team provides detailed instructions for pre-treatment and post-treatment care, ensuring the best possible outcomes. We also offer lifestyle recommendations to complement your treatment plan.",
+        "points": [
+          "Post-surgery care instructions",
+          "Lifestyle adjustments for better health"
+        ]
+      }
+    },
+    "support": {
+      "title": "Emotional Support & Counseling",
+      "content": {
+        "text": "Our compassionate team is here to support you emotionally during your treatment process. We provide counseling services and are always available to answer your questions and alleviate any concerns.",
+        "points": [
+          "Personalized emotional support",
+          "Expert counseling services available"
+        ]
+      }
+    }
+  },
+  "additional_title": "Holistic Women's Health Care",
+  "additional_text": "Our goal is to provide comprehensive, compassionate, and holistic care for women of all ages. Whether you need routine care or advanced treatment, we are here to support your health journey every step of the way.",
+  "additional_points": [
+    {
+      "icon": "icon-tick",
+      "text": "Complete gynecological care for all stages of life"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Innovative treatments and therapies"
+    }
+  ]
+}
+,
+  {
+      "slug": "egg-freezing",
+      "images": [
+        { "src": "assets/images/services/9.jpg", "alt": "Egg Freezing Consultation" },
+        { "src": "assets/images/services/egg-freezing-img-2.jpg", "alt": "Cryopreservation Lab" }
+      ],
+      "title": "Egg Freezing: Preserve Your Fertility",
+            "icon": "assets/images/icon/9.svg",
+
+      "text": [
+        "Egg freezing is a breakthrough service that allows women to preserve their fertility at an optimal time, providing flexibility for family planning. Whether you're focusing on your career, not ready for children yet, or facing health concerns, egg freezing allows you to freeze your eggs for future use. Our clinic uses the latest cryopreservation techniques to ensure the highest quality eggs are preserved for later use.",
+        "During the process, we stimulate the ovaries to produce multiple eggs, which are then retrieved and frozen. This service provides a sense of control over your reproductive future, offering peace of mind for those who want to delay childbearing."
+      ],
+      "points": [
+        {
+          "icon": "icon-tick",
+          "text": "State-of-the-art cryopreservation technology"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Experienced fertility specialists"
+        }
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=exampleEggFreezing",
+        "icon": "fa fa-play"
+      },
+      "more_text": "Egg freezing is an empowering option that lets you take control of your reproductive timeline. With minimal discomfort and short recovery time, egg freezing ensures that you can revisit your fertility options when you’re ready. The procedure is safe, effective, and performed by top-tier professionals at our clinic.",
+      "tabs": {
+        "specializations": {
+          "title": "When to Consider Egg Freezing",
+          "content": {
+            "text": "Egg freezing is ideal for women who are not yet ready to have children but want to preserve their fertility for future use. It’s also recommended for women who are undergoing medical treatments that may impact fertility, such as chemotherapy.",
+            "points": [
+              "Career-focused women",
+              "Women facing health-related fertility risks",
+              "Age-related fertility preservation"
+            ]
+          }
+        },
+        "intelligence": {
+          "title": "Success Rate of Egg Freezing",
+          "content": {
+            "text": "The success rate of egg freezing depends on various factors like age at the time of freezing, egg quality, and the method used. Our clinic ensures optimal results by using the latest technologies and preserving as many eggs as possible. The younger you are at the time of egg freezing, the higher the chances of a successful pregnancy later.",
+            "points": [
+              "Egg quality and preservation techniques",
+              "Optimal age for freezing eggs",
+              "Success rates based on age and fertility health"
+            ]
+          }
+        },
+        "precautions": {
+          "title": "Preparing for Egg Freezing",
+          "content": {
+            "text": "Before undergoing egg freezing, women may need to undergo a series of tests and take medications to stimulate the ovaries. Our fertility specialists guide you through the entire process, ensuring you are physically and mentally prepared.",
+            "points": [
+              "Medications to stimulate egg production",
+              "Regular monitoring throughout the process",
+              "Emotional and psychological counseling"
+            ]
+          }
+        },
+        "support": {
+          "title": "Comprehensive Support During the Process",
+          "content": {
+            "text": "Our team is with you every step of the way. From initial consultations to post-procedure counseling, we provide the support you need throughout the egg freezing process. We understand this can be an emotional journey, and we offer personalized care and constant communication.",
+            "points": [
+              "24/7 patient care",
+              "Emotional support from counselors",
+              "Comprehensive fertility education"
+            ]
+          }
+        }
+      },
+      "additional_title": "Secure Your Future Fertility",
+      "additional_text": "With egg freezing, you’re taking a proactive approach to preserving your fertility. Our clinic offers a safe, supportive environment for you to make this important decision about your future family planning.",
+      "additional_points": [
+        {
+          "icon": "icon-tick",
+          "text": "Safe and secure cryopreservation process"
+        },
+        {
+          "icon": "icon-tick",
+          "text": "Flexible options for future family planning"
+        }
+      ]
+    },
+  {
+  "slug": "laparoscopy",
+  "images": [
+    { "src": "assets/images/services/10.jpg", "alt": "Laparoscopy Procedure" },
+    { "src": "assets/images/services/laparoscopy-2.jpg", "alt": "Advanced Laparoscopic Surgery" }
+  ],
+  "title": "Advanced Laparoscopy for Fertility & Gynecology",
+  "icon": "assets/images/icon/10.png",
+  "text": [
+    "Our laparoscopy services offer minimally invasive solutions for diagnosing and treating a variety of gynecological conditions. It plays a critical role in fertility evaluations, helping us assess issues like endometriosis, fibroids, and blocked fallopian tubes.",
+    "Using high-definition visualization and precise surgical techniques, laparoscopy ensures faster recovery, less pain, and accurate diagnosis. Whether it’s for fertility concerns or general gynecologic surgery, our expert team ensures optimal outcomes with minimal downtime."
+  ],
+  "points": [
+    {
+      "icon": "icon-tick",
+      "text": "Minimally invasive diagnostics & treatment for infertility"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Performed by highly experienced laparoscopic surgeons"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=QqXKZxMS3gI",
+    "icon": "fa fa-play"
+  },
+  "more_text": "We specialize in fertility-enhancing laparoscopic procedures such as ovarian drilling, myomectomy, and adhesiolysis. Our technology allows for precise operations with quick healing, ensuring your path to parenthood continues uninterrupted.",
+  "tabs": {
+    "specializations": {
+      "title": "Specializations",
+      "content": {
+        "text": "We offer a range of laparoscopic procedures for fertility and gynecology, including hysteroscopic evaluations, cyst removals, and fibroid surgeries. Each procedure is customized to patient needs with the highest standards of safety.",
+        "points": [
+          "Diagnostic laparoscopy for infertility",
+          "Laparoscopic myomectomy & ovarian cystectomy",
+          "Adhesion removal & tubal evaluation"
+        ]
+      }
+    },
+    "intelligence": {
+      "title": "Why Laparoscopy?",
+      "content": {
+        "text": "Laparoscopy is a gold-standard diagnostic and therapeutic tool in reproductive medicine. It offers visual access to the pelvic organs without large incisions, reducing risks and improving accuracy.",
+        "points": [
+          "Smaller incisions, less pain",
+          "Quick recovery time",
+          "Better surgical outcomes"
+        ]
+      }
+    },
+    "precautions": {
+      "title": "Pre & Post Care",
+      "content": {
+        "text": "We provide comprehensive pre-op instructions and post-surgical care to ensure a smooth experience. Our medical team monitors recovery closely and provides continuous support.",
+        "points": [
+          "Pre-surgery fasting and evaluations",
+          "Post-operative care and medication guidance",
+          "Follow-up consultations for recovery monitoring"
+        ]
+      }
+    },
+    "support": {
+      "title": "Patient Support",
+      "content": {
+        "text": "From preparation to recovery, our care team supports patients every step of the way. We ensure you understand the procedure, its benefits, and your recovery timeline.",
+        "points": [
+          "Clear counseling before surgery",
+          "24/7 helpline for post-op support",
+          "Detailed recovery and wellness plan"
+        ]
+      }
+    }
+  },
+  "additional_title": "Laparoscopy with Care & Comfort",
+  "additional_text": "We combine surgical expertise with compassionate care. Our focus is on safe, effective laparoscopic procedures that support fertility treatment goals and general gynecologic health.",
+  "additional_points": [
+    {
+      "icon": "icon-tick",
+      "text": "Day-care procedure with fast discharge"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Affordable and transparent pricing"
+    }
+  ]
+},
+
+{
+  "slug": "hysterectomy",
+  "images": [
+    { "src": "assets/images/services/5.jpg", "alt": "Hysteroscopy Consultation" },
+    { "src": "assets/images/services/hysterectomy-img-2.jpg", "alt": "Hysteroscopy Procedure" }
+  ],
+  "title": "Minimally Invasive Hysteroscopy Procedures",
+        "icon": "assets/images/icon/5.svg",
+
+  "text": [
+    "Hysteroscopy is a surgical procedure used to remove the uterus for various reasons, including uterine cancer, fibroids, endometriosis, and chronic pelvic pain. We provide both traditional and minimally invasive hysterectomy options to ensure the best possible outcomes for our patients.",
+    "Our experienced team works closely with you to determine the right approach, offering both laparoscopic and robotic-assisted hysterectomy options to minimize recovery time and maximize precision."
+  ],
+  "points": [
+    {
+      "icon": "icon-tick",
+      "text": "Minimally invasive surgical options"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Comprehensive post-surgery care"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=exampleHysteroscopy",
+    "icon": "fa fa-play"
+  },
+  "more_text": "Our hysterectomy procedures are designed with your comfort and recovery in mind. We use the latest technology to perform the surgery with minimal incisions, leading to quicker recovery times and less discomfort. Whether you're opting for a full or partial hysterectomy, we ensure a personalized approach to care.",
+  "tabs": {
+    "specializations": {
+      "title": "Types of Hysteroscopy",
+      "content": {
+        "text": "We offer different types of hysterectomy, including total, subtotal, and radical hysterectomy, depending on the medical condition and patient needs. Our team discusses all options thoroughly to ensure you understand your procedure.",
+        "points": [
+          "Total hysterectomy",
+          "Subtotal hysterectomy",
+          "Radical hysterectomy for cancer"
+        ]
+      }
+    },
+    "intelligence": {
+      "title": "Success Rates & Recovery",
+      "content": {
+        "text": "Our minimally invasive hysterectomy procedures have high success rates and are associated with faster recovery and fewer complications compared to traditional surgery. We closely monitor your progress to ensure the best outcomes.",
+        "points": [
+          "Faster recovery with minimally invasive methods",
+          "Minimal scarring and discomfort"
+        ]
+      }
+    },
+    "precautions": {
+      "title": "Post-Procedure Care",
+      "content": {
+        "text": "After your hysterectomy, we provide detailed aftercare instructions to promote optimal healing. This includes guidance on activity restrictions, wound care, and follow-up appointments.",
+        "points": [
+          "Avoid heavy lifting and strenuous activities",
+          "Follow-up visits to monitor recovery"
+        ]
+      }
+    },
+    "support": {
+      "title": "Post-Surgery Emotional Support",
+      "content": {
+        "text": "Our team provides compassionate support during your recovery period. We offer counseling services to help you manage the emotional aspects of recovery, and our staff is available for any questions or concerns.",
+        "points": [
+          "Emotional and psychological support",
+          "Regular check-ins to ensure recovery"
+        ]
+      }
+    }
+  },
+  "additional_title": "Expert Care for Your Health",
+  "additional_text": "We understand that undergoing a hysterectomy is a significant decision, and our team is here to support you every step of the way. Our goal is to ensure your procedure is as comfortable and successful as possible, with personalized care for your recovery.",
+  "additional_points": [
+    {
+      "icon": "icon-tick",
+      "text": "Personalized care for each patient"
+    },
+    {
+      "icon": "icon-tick",
+      "text": "Minimal recovery time with advanced techniques"
+    }
+  ]
+}
+
+  ]
+}

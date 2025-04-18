@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Blog Details - Dr. Avani Mannam</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <section class="blog-details">
+    <div class="container">
+      <div id="blogPost">
+        <!-- Blog content will render here -->
+      </div>
+    </div>
+  </section>
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const slug = urlParams.get('slug');
+
+    fetch('blogs.json')
+      .then(res => res.json())
+      .then(data => {
+        const blog = data.blogs.find(b => b.slug === slug);
+        if (!blog) {
+          document.getElementById("blogPost").innerHTML = "<p>Blog not found.</p>";
+          return;
+        }
+
+        let content = `
+          <div class="blog-header">
+            <h1>${blog.title}</h1>
+            <span class="meta">Posted on ${new Date(blog.date).toDateString()} by ${blog.author}</span>
+            <img src="${blog.coverImage}" alt="${blog.title}" class="img-fluid" />
+          </div>
+          <div class="blog-body">`;
+
+        blog.sections.forEach(section => {
+          if (section.type === "paragraph") {
+            content += `<p>${section.text}</p>`;
+          } else if (section.type === "image") {
+            content += `<img src="${section.src}" class="img-fluid" alt="blog image" />`;
+          } else if (section.type === "quote") {
+            content += `<blockquote>${section.text}</blockquote>`;
+          } else if (section.type === "bullet_points") {
+            content += "<ul>";
+            section.points.forEach(point => {
+              content += `<li>${point}</li>`;
+            });
+            content += "</ul>";
+          } else if (section.type === "button") {
+            content += `<a href="${section.link}" class="btn btn-primary">${section.label}</a>`;
+          }
+        });
+
+        content += `</div>
+          <div class="blog-footer">
+            <p><strong>Tags:</strong> ${blog.tags.map(t => `<span class="tag">${t}</span>`).join(' ')}</p>
+            <div class="author-box">
+              <img src="${blog.author.image}" alt="${blog.author.name}" class="author-img" />
+              <div>
+                <h5>${blog.author.name}</h5>
+                <p>${blog.author.bio}</p>
+              </div>
+            </div>
+          </div>`;
+
+        document.getElementById('blogPost').innerHTML = content;
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Service Details</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <section class="service-details">
+    <div class="container">
+      <div id="service-detail-content">
+        <!-- Dynamic content will be injected here -->
+      </div>
+    </div>
+  </section>
+
+  <script>
+    function getSlugFromURL() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('slug');
+    }
+
+    fetch('services.json')
+      .then(res => res.json())
+      .then(data => {
+        const slug = getSlugFromURL();
+        const service = data.services.find(s => s.slug === slug);
+
+        if (!service) {
+          document.getElementById('service-detail-content').innerHTML = '<p>Service not found.</p>';
+          return;
+        }
+
+        const section = document.getElementById('service-detail-content');
+
+        section.innerHTML = `
+          <h2 class="service-title">${service.title}</h2>
+          <div class="service-images">
+            ${service.images.map(img => `<img src="${img.src}" alt="${img.alt || service.title}" />`).join('')}
+          </div>
+          <div class="service-description">
+            ${service.text.map(p => `<p>${p}</p>`).join('')}
+          </div>
+          <ul class="service-points">
+            ${service.points.map(point => `
+              <li><i class="${point.icon}"></i> ${point.text}</li>
+            `).join('')}
+          </ul>
+
+          ${service.video ? `
+            <div class="service-video">
+              <a href="${service.video.url}" target="_blank">
+                <i class="${service.video.icon}"></i> Watch Video
+              </a>
+            </div>
+          ` : ''}
+
+          <p class="more-text">${service.more_text}</p>
+
+          <div class="service-tabs">
+            ${Object.entries(service.tabs).map(([key, tab]) => `
+              <div class="tab">
+                <h3>${tab.title}</h3>
+                <p>${tab.content.text}</p>
+                <ul>
+                  ${tab.content.points.map(point => `<li>${point}</li>`).join('')}
+                </ul>
+              </div>
+            `).join('')}
+          </div>
+
+          <h3>${service.additional_title}</h3>
+          <p>${service.additional_text}</p>
+          <ul class="service-additional-points">
+            ${service.additional_points.map(p => `<li><i class="${p.icon}"></i> ${p.text}</li>`).join('')}
+          </ul>
+        `;
+      })
+      .catch(error => {
+        document.getElementById('service-detail-content').innerHTML = '<p>Error loading service details.</p>';
+        console.error('Error:', error);
+      });
+  </script>
+
+  <style>
+    .service-details {
+      padding: 60px 20px;
+    }
+    .service-title {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+    .service-images img {
+      max-width: 100%;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+    .service-description p,
+    .more-text,
+    .tab p {
+      color: #555;
+      margin-bottom: 16px;
+    }
+    .service-points,
+    .service-additional-points,
+    .tab ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .service-points li,
+    .service-additional-points li,
+    .tab li {
+      margin-bottom: 10px;
+      position: relative;
+      padding-left: 24px;
+    }
+    .service-points i,
+    .service-additional-points i,
+    .tab li::before {
+      position: absolute;
+      left: 0;
+      top: 2px;
+      color: #007bff;
+    }
+    .service-video {
+      margin: 20px 0;
+    }
+    .service-video a {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: bold;
+      color: #e60023;
+      text-decoration: none;
+    }
+    .service-video i {
+      font-size: 24px;
+    }
+    .service-tabs .tab {
+      margin-top: 30px;
+      padding: 20px;
+      background: #f9f9f9;
+      border-radius: 10px;
+    }
+  </style>
+
+</body>
+</html>
